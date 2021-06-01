@@ -7,7 +7,7 @@ Thanks to the GitHub Trust & Safety team for their advice.
 ```
 
 # 넷플릭스 클론코딩 완성본 주소
-[https://jyh7a.github.io/spartacodingclub_netflix_clone_coding_complete/index.html](https://jyh7a.github.io/spartacodingclub_netflix_clone_coding_complete/index.html)
+[https://jungaeeum.github.io/sparta_netflix_clone_coding/index.html](https://jyh7a.github.io/spartacodingclub_netflix_clone_coding_complete/index.html)
 
 
 # 0. 파이참 단축키
